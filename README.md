@@ -59,4 +59,4 @@ In the next projects, I will try to customize the Bootstrap css files instead of
 
 ## Acknowledgments
 
-No one help me complete this project. However, thanks to frontend mentor for letting us practise. Thanks a million. One of the best website for frontend developer.
+I did this project on my own. However, thanks to frontend mentor for letting us practise. Thanks a million. One of the best website for frontend developer.
