@@ -54,8 +54,8 @@ In the next projects, I will try to customize the Bootstrap css files instead of
 ## Author
 
 - Frontend Mentor - [@HeronKyaw](https://www.frontendmentor.io/profile/HeronKyaw)
-- Linkedin - (https://www.linkedin.com/in/wunnakyaw11/)
-- Github - (https://github.com/HeronKyaw)
+- Linkedin - [Wunna Kyaw](https://www.linkedin.com/in/wunnakyaw11/)
+- Github -  [Wunna Kyaw](https://github.com/HeronKyaw)
 
 ## Acknowledgments
 
