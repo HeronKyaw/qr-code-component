@@ -49,7 +49,7 @@ In the next projects, I will try to customize the Bootstrap css files instead of
 
 ### Useful resources
 
-- [Resource 1](https://getbootstrap.com/) - This is the only framework that I use in this project. This helps me a lot to create layout.
+- [Bootstrap 5](https://getbootstrap.com/) - This is the only framework that I use in this project. This helps me a lot to create layout.
 
 ## Author
 
