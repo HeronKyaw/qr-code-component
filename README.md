@@ -36,8 +36,7 @@ Screenshot for Desktop (1440px)
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox (included in bootstrap components)
-- Bootstrap
-- Mobile-first workflow
+- [Bootstrap 5](https://getbootstrap.com/)
 
 ### What I learned
 
@@ -46,10 +45,6 @@ During this project, I have been practising Bootstrap 5. However, sometimes, it 
 ### Continued development
 
 In the next projects, I will try to customize the Bootstrap css files instead of using the pure css on my own. As I still feel that my responsive skill is not satisfied for me. I will learn to make the best responsive layout for every devices.
-
-### Useful resources
-
-- [Bootstrap 5](https://getbootstrap.com/) - This is the only framework that I use in this project. This helps me a lot to create layout.
 
 ## Author
 
